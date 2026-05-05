@@ -7,44 +7,10 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <!-- Operating Systems -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="Nixos" width="40" height="40"/>
-          
-  
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+<!-- skillicons.dev row — to add an icon, append its slug to the ?i= list -->
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,java,graphql,docker,kubernetes,gradle,maven,git,mysql,prometheus,grafana,idea,vscode)](https://skillicons.dev)
 
-  <!-- AL (no official icon, skipping or custom SVG needed) -->
-
-  <!-- Container & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" alt="Portainer" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" alt="Proxmox" width="40" height="40" />
-  <img src="assets/Nvidia.jpg" alt="NVIDIA" width="40" height="40"/>
-
-  <!-- Build Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-
-  <!-- VCS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" alt="InfluxDB" width="40" height="40"/>
-
-  <!-- Monitoring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
-
-  <!-- IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" alt="DataGrip" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
+<!-- Local icons (not on skillicons.dev) — stored in assets/icons/ to bypass GitHub's Camo proxy -->
+<!-- To add: download SVG to assets/icons/, append <img> in the right group on the line below    -->
+<!-- Groups: [Infrastructure: nixos, portainer, proxmox, nvidia] [Databases: mariadb, influxdb] [IDEs: datagrip] -->
+<p align="left"><img src="assets/icons/nixos.svg" alt="NixOS" width="40" height="40"/><img src="assets/icons/portainer.svg" alt="Portainer" width="40" height="40"/><img src="assets/icons/proxmox.svg" alt="Proxmox" width="40" height="40"/><img src="assets/Nvidia.jpg" alt="NVIDIA" width="40" height="40"/><img src="assets/icons/mariadb.svg" alt="MariaDB" width="40" height="40"/><img src="assets/icons/influxdb.svg" alt="InfluxDB" width="40" height="40"/><img src="assets/icons/datagrip.svg" alt="DataGrip" width="40" height="40"/></p>
